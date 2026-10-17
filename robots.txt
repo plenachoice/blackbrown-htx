@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calvin636.github.io/blackbrown-htx/sitemap.xml
+Sitemap: https://plenachoice.github.io/blackbrown-htx/sitemap.xml
